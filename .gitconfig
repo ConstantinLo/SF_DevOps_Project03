@@ -1,0 +1,7 @@
+[user]
+	name = Konstantin Lozhkin
+	email = kostal77@mail.ru
+[alias]
+	history = log --graph
+[core]
+	editor = atom --wait
